@@ -1,0 +1,10 @@
+.post-title {
+    color: brown;
+    background: gainsboro;
+    padding: 7px 14px;
+    margin: 20px 0;
+}
+
+.post-date {
+    color: rgb(1, 39, 252);
+}
